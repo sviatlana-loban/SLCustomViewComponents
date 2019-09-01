@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SLCustomViewComponents_Example' do
+  pod 'SLCustomViewComponents', :path => '../'
+
+  target 'SLCustomViewComponents_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

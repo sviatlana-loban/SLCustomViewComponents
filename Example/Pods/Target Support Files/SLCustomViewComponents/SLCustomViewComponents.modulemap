@@ -1,0 +1,6 @@
+framework module SLCustomViewComponents {
+  umbrella header "SLCustomViewComponents-umbrella.h"
+
+  export *
+  module * { export * }
+}
