@@ -17,7 +17,8 @@ SLCustomViewComponents is available through [CocoaPods](https://cocoapods.org). 
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'SLCustomViewComponents', :git => 'https://github.com/sviatlana-loban/SLCustomViewComponents', :tag => '1.0.1'
+pod 'SLCustomViewComponents', :git => 'https://github.com/sviatlana-loban/SLCustomViewComponents', 
+:tag => '1.0.1'
 ```
 
 ## Author
