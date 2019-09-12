@@ -70,9 +70,3 @@ extension UIViewController {
     }
 }
 
-extension UIApplication {
-    func topMostViewController() -> UIViewController? {
-        return self.keyWindow?.rootViewController?.topMostViewController()
-    }
-}
-
